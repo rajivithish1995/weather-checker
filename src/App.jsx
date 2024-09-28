@@ -3,7 +3,7 @@ import Login from './components/login';
 
 function App() {
   return (
-    <div className='bg-red-200'>
+    <div >
       <Login />
 </div>
   );
